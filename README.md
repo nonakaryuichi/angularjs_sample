@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-test
-=======
--
+AngularJS Sample 
 ===================================
->>>>>>> 96c465a04ae73244079e0b32f73dd99e286b7ed0
+Website: http://angularjs.org/ 
+
+Document: http://angularjs-jp.github.io/docs/ 
+
+Sample 
+http://slid.es/agektmr/angularjs
